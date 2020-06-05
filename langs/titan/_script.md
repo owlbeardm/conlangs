@@ -1,6 +1,7 @@
 # Lang
 
 runSQLAction $ addLang Titan
+runSQLAction $ addLang English
 
 ## Words
 

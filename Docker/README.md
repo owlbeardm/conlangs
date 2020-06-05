@@ -3,5 +3,5 @@
 ## for test access
 
 ```
-psql -h 172.18.7.103 -p 5432 -d wiki -U wiki
+psql -h 172.19.6.103 -p 5432 -d wiki -U wiki
 ```
