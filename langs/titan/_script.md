@@ -23,7 +23,7 @@ runSQLAction $ addWordByLangName "bhēso" Noun Titan
 runSQLAction $ addWordByLangName "bhlēu" Adjective Titan
 runSQLAction $ addWordByLangName "bhləu" Adjective Titan
 runSQLAction $ addWordByLangName "bhlū" Adjective Titan
-runSQLAction $ addWordByLangName "bʰréH2ter" Noun Titan
+runSQLAction $ addWordByLangName "bʰréH₂ter" Noun Titan
 runSQLAction $ addWordByLangName "bhrentos" Noun Titan
 runSQLAction $ addWordByLangName "deH₃" Verb Titan
 runSQLAction $ addWordByLangName "déiwos" Noun Titan
@@ -36,30 +36,30 @@ runSQLAction $ addWordByLangName "dʰĝʰyés" Noun Titan
 runSQLAction $ addWordByLangName "dʰH̥₃" Verb Titan
 runSQLAction $ addWordByLangName "dhōu" Noun Titan
 runSQLAction $ addWordByLangName "dhū" Noun Titan
-runSQLAction $ addWordByLangName "dʰugH2tér" Noun Titan
+runSQLAction $ addWordByLangName "dʰugH₂tér" Noun Titan
 runSQLAction $ addWordByLangName "dn̥ĝʰuH₂" Noun Titan
 runSQLAction $ addWordByLangName "dn̥ĝʰwéH₂" Noun Titan
 runSQLAction $ addWordByLangName "doru" Noun Titan
 runSQLAction $ addWordByLangName "dreu" Noun Titan
 runSQLAction $ addWordByLangName "dumb" Noun Titan
 runSQLAction $ addWordByLangName "dumbh" Noun Titan
-runSQLAction $ addWordByLangName "dwidk̂m̥̥tiH1" Numeral Titan
-runSQLAction $ addWordByLangName "dwóH1" Numeral Titan
-runSQLAction $ addWordByLangName "dwóyH1" Numeral Titan
+runSQLAction $ addWordByLangName "dwidk̂m̥̥tiH₁" Numeral Titan
+runSQLAction $ addWordByLangName "dwóH₁" Numeral Titan
+runSQLAction $ addWordByLangName "dwóyH₁" Numeral Titan
 runSQLAction $ addWordByLangName "dyēus" Noun Titan
-runSQLAction $ addWordByLangName "egH2" Pronoun Titan
+runSQLAction $ addWordByLangName "egH₂" Pronoun Titan
 runSQLAction $ addWordByLangName "ein" Noun Titan
 runSQLAction $ addWordByLangName "eis" Noun Titan
 runSQLAction $ addWordByLangName "el" Verb Titan
 runSQLAction $ addWordByLangName "embh" Adjective Titan
 runSQLAction $ addWordByLangName "en" Preposition Titan
 runSQLAction $ addWordByLangName "enebh" Adjective Titan
-runSQLAction $ addWordByLangName "esH2nés" Noun Titan
-runSQLAction $ addWordByLangName "ésH2r̥" Noun Titan
+runSQLAction $ addWordByLangName "esH₂nés" Noun Titan
+runSQLAction $ addWordByLangName "ésH₂r̥" Noun Titan
 runSQLAction $ addWordByLangName "g̑ebh" Noun Titan
 runSQLAction $ addWordByLangName "gelə" Adjective Titan
-runSQLAction $ addWordByLangName "ĝenH1" Verb Titan
-runSQLAction $ addWordByLangName "ĝénH3" Verb Titan
+runSQLAction $ addWordByLangName "ĝenH₁" Verb Titan
+runSQLAction $ addWordByLangName "ĝénH₃" Verb Titan
 runSQLAction $ addWordByLangName "ĝénu" Noun Titan
 runSQLAction $ addWordByLangName "g̑eph" Noun Titan
 runSQLAction $ addWordByLangName "ĝʰeim" Noun Titan
@@ -69,13 +69,13 @@ runSQLAction $ addWordByLangName "ǵʰésr̥" Noun Titan
 runSQLAction $ addWordByLangName "ǵʰsrés" Noun Titan
 runSQLAction $ addWordByLangName "g̑hu̯ē̆r" Noun Titan
 runSQLAction $ addWordByLangName "ĝʰyem" Noun Titan
-runSQLAction $ addWordByLangName "giĝnéH1sk̂"     Verb Titan
-runSQLAction $ addWordByLangName "ĝnéH3"     Verb Titan
-runSQLAction $ addWordByLangName "ĝnéH3sk̂"     Verb Titan
+runSQLAction $ addWordByLangName "giĝnéH₁sk̂"     Verb Titan
+runSQLAction $ addWordByLangName "ĝnéH₃"     Verb Titan
+runSQLAction $ addWordByLangName "ĝnéH₃sk̂"     Verb Titan
 runSQLAction $ addWordByLangName "ĝnéus" Noun Titan
-runSQLAction $ addWordByLangName "ĝn̥néH1" Verb Titan
-runSQLAction $ addWordByLangName "ĝn̥néH3"     Verb Titan
-runSQLAction $ addWordByLangName "ĝonH2dʰos" Noun Titan
+runSQLAction $ addWordByLangName "ĝn̥néH₁" Verb Titan
+runSQLAction $ addWordByLangName "ĝn̥néH₃"     Verb Titan
+runSQLAction $ addWordByLangName "ĝonH₂dʰos" Noun Titan
 runSQLAction $ addWordByLangName "gu̯ei̯" Verb Titan
 runSQLAction $ addWordByLangName "gu̯ei̯ə" Verb Titan
 runSQLAction $ addWordByLangName "gu̯er" Noun Titan
@@ -83,38 +83,38 @@ runSQLAction $ addWordByLangName "gu̯her" Adjective Titan
 runSQLAction $ addWordByLangName "gu̯or" Noun Titan
 runSQLAction $ addWordByLangName "gʷem" Verb Titan
 runSQLAction $ addWordByLangName "gʷéneH₂" Noun Titan
-runSQLAction $ addWordByLangName "gʷerH2" Adjective Titan
+runSQLAction $ addWordByLangName "gʷerH₂" Adjective Titan
 runSQLAction $ addWordByLangName "gʷʰen" Verb Titan
 runSQLAction $ addWordByLangName "gʷʰerm" Adjective Titan
-runSQLAction $ addWordByLangName "gʷiH3wo" Adjective Titan
-runSQLAction $ addWordByLangName "gʷiH3woteH2" Noun Titan
-runSQLAction $ addWordByLangName "H1dn̥t" Noun Titan
-runSQLAction $ addWordByLangName "H1dónt"        Noun        Titan
+runSQLAction $ addWordByLangName "gʷiH₃wo" Adjective Titan
+runSQLAction $ addWordByLangName "gʷiH₃woteH₂" Noun Titan
+runSQLAction $ addWordByLangName "H₁dn̥t" Noun Titan
+runSQLAction $ addWordByLangName "H₁dónt"        Noun        Titan
 runSQLAction $ addWordByLangName "H₁ed" Verb Titan
-runSQLAction $ addWordByLangName "H1neH3mn̥" Noun Titan
-runSQLAction $ addWordByLangName "H1néwn̥" Numeral Titan
-runSQLAction $ addWordByLangName "H1nomn̥"        Noun        Titan
-runSQLAction $ addWordByLangName "H1ok̂tōu" Numeral Titan
+runSQLAction $ addWordByLangName "H₁neH₃mn̥" Noun Titan
+runSQLAction $ addWordByLangName "H₁néwn̥" Numeral Titan
+runSQLAction $ addWordByLangName "H₁nomn̥"        Noun        Titan
+runSQLAction $ addWordByLangName "H₁ok̂tōu" Numeral Titan
 runSQLAction $ addWordByLangName "H₁reudʰ" Adjective Titan
 runSQLAction $ addWordByLangName "H₁roudʰos" Adjective Titan
 runSQLAction $ addWordByLangName "H₁rudʰrós" Adjective Titan
-runSQLAction $ addWordByLangName "H2enH"     Verb Titan
-runSQLAction $ addWordByLangName "H2enH1" Verb Titan
-runSQLAction $ addWordByLangName "H2entá" Preposition Titan
-runSQLAction $ addWordByLangName "H2entí" Preposition Titan
-runSQLAction $ addWordByLangName "H2ents" Noun Titan
+runSQLAction $ addWordByLangName "H₂enH"     Verb Titan
+runSQLAction $ addWordByLangName "H₂enH₁" Verb Titan
+runSQLAction $ addWordByLangName "H₂entá" Preposition Titan
+runSQLAction $ addWordByLangName "H₂entí" Preposition Titan
 runSQLAction $ addWordByLangName "H₂ents" Noun Titan
-runSQLAction $ addWordByLangName "H2eug" Verb Titan
+runSQLAction $ addWordByLangName "H₂ents" Noun Titan
+runSQLAction $ addWordByLangName "H₂eug" Verb Titan
 runSQLAction $ addWordByLangName "H₂euso" Noun Titan
 runSQLAction $ addWordByLangName "H₂eusōs" Noun Titan
 runSQLAction $ addWordByLangName "H₂ner" Noun Titan
-runSQLAction $ addWordByLangName "H2óst" Noun Titan
+runSQLAction $ addWordByLangName "H₂óst" Noun Titan
 runSQLAction $ addWordByLangName "H₂ous" Noun Titan
-runSQLAction $ addWordByLangName "H2ster" Noun Titan
-runSQLAction $ addWordByLangName "H2weg" Verb Titan
-runSQLAction $ addWordByLangName "H2weH1n̥to" Noun Titan
-runSQLAction $ addWordByLangName "H2yuHn̥" Adjective Titan
-runSQLAction $ addWordByLangName "H3okʷ" Noun Titan
+runSQLAction $ addWordByLangName "H₂ster" Noun Titan
+runSQLAction $ addWordByLangName "H₂weg" Verb Titan
+runSQLAction $ addWordByLangName "H₂weH₁n̥to" Noun Titan
+runSQLAction $ addWordByLangName "H₂yuHn̥" Adjective Titan
+runSQLAction $ addWordByLangName "H₃okʷ" Noun Titan
 runSQLAction $ addWordByLangName "i̯agh" Verb Titan
 runSQLAction $ addWordByLangName "kais" Noun Titan
 runSQLAction $ addWordByLangName "kalni" Adjective Titan
@@ -158,8 +158,8 @@ runSQLAction $ addWordByLangName "m̥bh" Adjective Titan
 runSQLAction $ addWordByLangName "medʰyo" Noun Titan
 runSQLAction $ addWordByLangName "medʰyo" Preposition Titan
 runSQLAction $ addWordByLangName "meĝ" Adjective Titan
-runSQLAction $ addWordByLangName "meH1ns" Noun Titan
-runSQLAction $ addWordByLangName "méH2tēr" Noun Titan
+runSQLAction $ addWordByLangName "meH₁ns" Noun Titan
+runSQLAction $ addWordByLangName "méH₂tēr" Noun Titan
 runSQLAction $ addWordByLangName "mei" Adjective Titan
 runSQLAction $ addWordByLangName "mēlo" Noun Titan
 runSQLAction $ addWordByLangName "mēmso" Noun Titan
@@ -187,7 +187,7 @@ runSQLAction $ addWordByLangName "óiwos" Numeral Titan
 runSQLAction $ addWordByLangName "ongh" Noun Titan
 runSQLAction $ addWordByLangName "onogh" Noun Titan
 runSQLAction $ addWordByLangName "ped" Noun Titan
-runSQLAction $ addWordByLangName "péH2wr̥" Noun Titan
+runSQLAction $ addWordByLangName "péH₂wr̥" Noun Titan
 runSQLAction $ addWordByLangName "peH₃" Verb Titan
 runSQLAction $ addWordByLangName "peisk" Noun Titan
 runSQLAction $ addWordByLangName "pel" Adjective Titan
@@ -203,8 +203,8 @@ runSQLAction $ addWordByLangName "pent" Verb Titan
 runSQLAction $ addWordByLangName "per" Preposition Titan
 runSQLAction $ addWordByLangName "pēs" Noun Titan
 runSQLAction $ addWordByLangName "peu̯ōr" Noun Titan
-runSQLAction $ addWordByLangName "pH2tér" Noun Titan
-runSQLAction $ addWordByLangName "pH2unés" Noun Titan
+runSQLAction $ addWordByLangName "pH₂tér" Noun Titan
+runSQLAction $ addWordByLangName "pH₂unés" Noun Titan
 runSQLAction $ addWordByLangName "pisk" Noun Titan
 runSQLAction $ addWordByLangName "plē" Adjective Titan
 runSQLAction $ addWordByLangName "pleu" Verb Titan
@@ -223,13 +223,13 @@ runSQLAction $ addWordByLangName "rə" Verb Titan
 runSQLAction $ addWordByLangName "sal" Noun Titan
 runSQLAction $ addWordByLangName "sed" Verb Titan
 runSQLAction $ addWordByLangName "séH₁mn̥" Noun Titan
-runSQLAction $ addWordByLangName "seH2wol" Noun Titan
+runSQLAction $ addWordByLangName "seH₂wol" Noun Titan
 runSQLAction $ addWordByLangName "sekʷ" Verb Titan
 runSQLAction $ addWordByLangName "sem" Adverb Titan
 runSQLAction $ addWordByLangName "sem" Numeral Titan
 runSQLAction $ addWordByLangName "sen" Adjective Titan
 runSQLAction $ addWordByLangName "sengu̯h" Verb Titan
-runSQLAction $ addWordByLangName "sH2un" Noun Titan
+runSQLAction $ addWordByLangName "sH₂un" Noun Titan
 runSQLAction $ addWordByLangName "sizd" Verb Titan
 runSQLAction $ addWordByLangName "smēlo" Noun Titan
 runSQLAction $ addWordByLangName "smeru" Noun Titan
@@ -283,7 +283,7 @@ runSQLAction $ addWordByLangName "werĝ" Verb Titan
 runSQLAction $ addWordByLangName "wesnés" Noun Titan
 runSQLAction $ addWordByLangName "wésr̥" Noun Titan
 runSQLAction $ addWordByLangName "wet" Noun Titan
-runSQLAction $ addWordByLangName "wīk̂m̥̥tiH1" Numeral Titan
+runSQLAction $ addWordByLangName "wīk̂m̥̥tiH₁" Numeral Titan
 runSQLAction $ addWordByLangName "wódr̥" Noun Titan
 runSQLAction $ addWordByLangName "woid" Verb Titan
 runSQLAction $ addWordByLangName "yeH₁r" Noun Titan
@@ -510,7 +510,7 @@ runSQLAction $ addTranslationFromTo "bhēso" Noun Titan "bird" Noun English Noth
 runSQLAction $ addTranslationFromTo "bhlēu" Adjective Titan "bad" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "bhləu" Adjective Titan "bad" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "bhlū" Adjective Titan "bad" Adjective English Nothing
-runSQLAction $ addTranslationFromTo "bʰréH2ter"    Noun        Titan "brother"         Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "bʰréH₂ter"    Noun        Titan "brother"         Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "deH₃"  Verb Titan "give" Verb English Nothing
 runSQLAction $ addTranslationFromTo "déiwos"       Noun        Titan "day"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "déiwos"       Noun        Titan "god"             Noun        English      Nothing
@@ -524,7 +524,7 @@ runSQLAction $ addTranslationFromTo "dʰĝʰyés" Noun Titan "yesterday" Noun En
 runSQLAction $ addTranslationFromTo "dʰH̥₃" Verb Titan "give" Verb English Nothing
 runSQLAction $ addTranslationFromTo "dhōu" Noun Titan "rope" Noun English Nothing
 runSQLAction $ addTranslationFromTo "dhū" Noun Titan "rope" Noun English Nothing
-runSQLAction $ addTranslationFromTo "dʰugH2tér"    Noun        Titan "daughter"        Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "dʰugH₂tér"    Noun        Titan "daughter"        Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "dn̥ĝʰuH₂" Noun Titan "tongue" Noun English Nothing
 runSQLAction $ addTranslationFromTo "dn̥ĝʰwéH₂" Noun Titan "tongue" Noun English Nothing
 runSQLAction $ addTranslationFromTo "doru"         Noun        Titan "tree"            Noun        English      Nothing
@@ -533,24 +533,24 @@ runSQLAction $ addTranslationFromTo "dreu"         Noun        Titan "tree"     
 runSQLAction $ addTranslationFromTo "dreu"         Noun        Titan "wood"            Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "dumb" Noun Titan "tail" Noun English Nothing
 runSQLAction $ addTranslationFromTo "dumbh" Noun Titan "tail" Noun English Nothing
-runSQLAction $ addTranslationFromTo "dwóH1"        Numeral     Titan "two"             Numeral     English      Nothing
-runSQLAction $ addTranslationFromTo "dwóyH1"       Numeral     Titan "two"             Numeral     English      Nothing
+runSQLAction $ addTranslationFromTo "dwóH₁"        Numeral     Titan "two"             Numeral     English      Nothing
+runSQLAction $ addTranslationFromTo "dwóyH₁"       Numeral     Titan "two"             Numeral     English      Nothing
 runSQLAction $ addTranslationFromTo "dyēus"        Noun        Titan "day"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "dyēus"        Noun        Titan "god"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "dyēus"        Noun        Titan "sky"             Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "egH2"         Pronoun     Titan "I"               Pronoun     English      Nothing
+runSQLAction $ addTranslationFromTo "egH₂"         Pronoun     Titan "I"               Pronoun     English      Nothing
 runSQLAction $ addTranslationFromTo "ein" Noun Titan "ice" Noun English Nothing
 runSQLAction $ addTranslationFromTo "eis" Noun Titan "ice" Noun English Nothing
 runSQLAction $ addTranslationFromTo "el" Verb Titan "lie" Verb English Nothing
 runSQLAction $ addTranslationFromTo "embh" Adjective Titan "wet" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "en"           Preposition Titan "in"              Preposition English      Nothing
 runSQLAction $ addTranslationFromTo "enebh" Adjective Titan "wet" Adjective English Nothing
-runSQLAction $ addTranslationFromTo "esH2nés"      Noun        Titan "blood"           Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "ésH2r̥"        Noun        Titan "blood"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "esH₂nés"      Noun        Titan "blood"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "ésH₂r̥"        Noun        Titan "blood"           Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "g̑ebh" Noun Titan "mouth" Noun English Nothing
 runSQLAction $ addTranslationFromTo "gelə" Adjective Titan "cold" Adjective English Nothing
-runSQLAction $ addTranslationFromTo "ĝénH3"        Verb        Titan "know"            Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝénH3"        Verb        Titan "recognize"       Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝénH₃"        Verb        Titan "know"            Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝénH₃"        Verb        Titan "recognize"       Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "ĝénu" Noun Titan "knee" Noun English Nothing
 runSQLAction $ addTranslationFromTo "g̑eph" Noun Titan "mouth" Noun English Nothing
 runSQLAction $ addTranslationFromTo "ĝʰeim" Noun Titan "winter" Noun English Nothing
@@ -560,14 +560,14 @@ runSQLAction $ addTranslationFromTo "ǵʰésr̥" Noun Titan "hand" Noun English 
 runSQLAction $ addTranslationFromTo "ǵʰsrés" Noun Titan "hand" Noun English Nothing
 runSQLAction $ addTranslationFromTo "g̑hu̯ē̆r" Noun Titan "animal" Noun English Nothing
 runSQLAction $ addTranslationFromTo "ĝʰyem" Noun Titan "winter" Noun English Nothing
-runSQLAction $ addTranslationFromTo "ĝnéH3sk̂"      Verb        Titan "know"            Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝnéH3sk̂"      Verb        Titan "recognize"       Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝnéH₃sk̂"      Verb        Titan "know"            Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝnéH₃sk̂"      Verb        Titan "recognize"       Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "ĝnéus" Noun Titan "knee" Noun English Nothing
-runSQLAction $ addTranslationFromTo "ĝn̥néH3"       Verb        Titan "know"            Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝn̥néH3"       Verb        Titan "recognize"       Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝonH2dʰos"    Noun        Titan "cheek"           Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝonH2dʰos"    Noun        Titan "chin"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "ĝonH2dʰos"    Noun        Titan "jaw"             Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝn̥néH₃"       Verb        Titan "know"            Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝn̥néH₃"       Verb        Titan "recognize"       Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝonH₂dʰos"    Noun        Titan "cheek"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝonH₂dʰos"    Noun        Titan "chin"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "ĝonH₂dʰos"    Noun        Titan "jaw"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "gu̯ei̯" Verb Titan "live" Verb English Nothing
 runSQLAction $ addTranslationFromTo "gu̯ei̯ə" Verb Titan "live" Verb English Nothing
 runSQLAction $ addTranslationFromTo "gu̯er" Noun Titan "mountain" Noun English Nothing
@@ -576,37 +576,37 @@ runSQLAction $ addTranslationFromTo "gu̯or" Noun Titan "mountain" Noun English 
 runSQLAction $ addTranslationFromTo "gʷem" Verb Titan "come" Verb English Nothing
 runSQLAction $ addTranslationFromTo "gʷéneH₂" Noun Titan "wife" Noun English Nothing
 runSQLAction $ addTranslationFromTo "gʷéneH₂" Noun Titan "woman" Noun English Nothing
-runSQLAction $ addTranslationFromTo "gʷerH2"       Adjective   Titan "heavy"           Adjective   English      Nothing
+runSQLAction $ addTranslationFromTo "gʷerH₂"       Adjective   Titan "heavy"           Adjective   English      Nothing
 runSQLAction $ addTranslationFromTo "gʷʰen" Verb Titan "kill" Verb English Nothing
 runSQLAction $ addTranslationFromTo "gʷʰerm"       Adjective   Titan "warm"            Adjective   English      Nothing
-runSQLAction $ addTranslationFromTo "gʷiH3wo"      Adjective   Titan "alive"           Adjective   English      Nothing
-runSQLAction $ addTranslationFromTo "gʷiH3woteH2"  Noun        Titan "life"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H1dn̥t"        Noun        Titan "tooth"           Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H1dónt"       Noun        Titan "tooth"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "gʷiH₃wo"      Adjective   Titan "alive"           Adjective   English      Nothing
+runSQLAction $ addTranslationFromTo "gʷiH₃woteH₂"  Noun        Titan "life"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₁dn̥t"        Noun        Titan "tooth"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₁dónt"       Noun        Titan "tooth"           Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "H₁ed" Verb Titan "eat" Verb English Nothing
-runSQLAction $ addTranslationFromTo "H1neH3mn̥"     Noun        Titan "name"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H1néwn̥"       Numeral     Titan "nine"            Numeral     English      Nothing
-runSQLAction $ addTranslationFromTo "H1nomn̥"       Noun        Titan "name"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H1ok̂tōu"      Numeral     Titan "eight"           Numeral     English      Nothing
+runSQLAction $ addTranslationFromTo "H₁neH₃mn̥"     Noun        Titan "name"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₁néwn̥"       Numeral     Titan "nine"            Numeral     English      Nothing
+runSQLAction $ addTranslationFromTo "H₁nomn̥"       Noun        Titan "name"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₁ok̂tōu"      Numeral     Titan "eight"           Numeral     English      Nothing
 runSQLAction $ addTranslationFromTo "H₁reudʰ" Adjective Titan "red" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "H₁roudʰos" Adjective Titan "red" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "H₁rudʰrós" Adjective Titan "red" Adjective English Nothing
-runSQLAction $ addTranslationFromTo "H2enH1"       Verb        Titan "breathe"         Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "H2ents"       Noun        Titan "forehead"        Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂enH₁"       Verb        Titan "breathe"         Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂ents"       Noun        Titan "forehead"        Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "H₂ents" Noun Titan "head" Noun English Nothing
-runSQLAction $ addTranslationFromTo "H2eug"        Verb        Titan "grow"            Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "H2eug"        Verb        Titan "increase"        Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂eug"        Verb        Titan "grow"            Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂eug"        Verb        Titan "increase"        Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "H₂euso" Noun Titan "gold" Noun English Nothing
 runSQLAction $ addTranslationFromTo "H₂eusōs" Noun Titan "dawn" Noun English Nothing
 runSQLAction $ addTranslationFromTo "H₂ner" Noun Titan "man" Noun English Nothing
-runSQLAction $ addTranslationFromTo "H2óst"        Noun        Titan "bone"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂óst"        Noun        Titan "bone"            Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "H₂ous" Noun Titan "ear" Noun English Nothing
-runSQLAction $ addTranslationFromTo "H2ster"       Noun        Titan "star"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H2weg"        Verb        Titan "grow"            Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "H2weg"        Verb        Titan "increase"        Verb        English      Nothing
-runSQLAction $ addTranslationFromTo "H2weH1n̥to"    Noun        Titan "wind"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "H2yuHn̥"       Adjective   Titan "young"           Adjective   English      Nothing
-runSQLAction $ addTranslationFromTo "H3okʷ"        Noun        Titan "eye"             Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂ster"       Noun        Titan "star"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂weg"        Verb        Titan "grow"            Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂weg"        Verb        Titan "increase"        Verb        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂weH₁n̥to"    Noun        Titan "wind"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "H₂yuHn̥"       Adjective   Titan "young"           Adjective   English      Nothing
+runSQLAction $ addTranslationFromTo "H₃okʷ"        Noun        Titan "eye"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "i̯agh" Verb Titan "hunt" Verb English Nothing
 runSQLAction $ addTranslationFromTo "kais" Noun Titan "hair" Noun English Nothing
 runSQLAction $ addTranslationFromTo "kalni" Adjective Titan "narrow" Adjective English Nothing
@@ -649,9 +649,9 @@ runSQLAction $ addTranslationFromTo "m̥bh" Adjective Titan "wet" Adjective Engl
 runSQLAction $ addTranslationFromTo "medʰyo"       Noun        Titan "middle"          Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "medʰyo"       Preposition Titan "mid"             Preposition English      Nothing
 runSQLAction $ addTranslationFromTo "meĝ"          Adjective   Titan "big"             Adjective   English      Nothing
-runSQLAction $ addTranslationFromTo "meH1ns"       Noun        Titan "month"           Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "meH1ns"       Noun        Titan "moon"            Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "méH2tēr"      Noun        Titan "mother"          Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "meH₁ns"       Noun        Titan "month"           Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "meH₁ns"       Noun        Titan "moon"            Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "méH₂tēr"      Noun        Titan "mother"          Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "mei" Adjective Titan "small" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "mēmso" Noun Titan "flesh" Noun English Nothing
 runSQLAction $ addTranslationFromTo "mēmso" Noun Titan "meat" Noun English Nothing
@@ -680,7 +680,7 @@ runSQLAction $ addTranslationFromTo "óiwos"        Numeral     Titan "one"     
 runSQLAction $ addTranslationFromTo "ongh" Noun Titan "claw" Noun English Nothing
 runSQLAction $ addTranslationFromTo "onogh" Noun Titan "claw" Noun English Nothing
 runSQLAction $ addTranslationFromTo "ped" Noun Titan "foot" Noun English Nothing
-runSQLAction $ addTranslationFromTo "péH2wr̥"       Noun        Titan "bonfire"         Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "péH₂wr̥"       Noun        Titan "bonfire"         Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "peH₃" Verb Titan "drink" Verb English Nothing
 runSQLAction $ addTranslationFromTo "peisk" Noun Titan "fish" Noun English Nothing
 runSQLAction $ addTranslationFromTo "pel" Adjective Titan "dull" Adjective English Nothing
@@ -699,8 +699,8 @@ runSQLAction $ addTranslationFromTo "per"          Preposition Titan "beyond"   
 runSQLAction $ addTranslationFromTo "per"          Preposition Titan "through"         Preposition English      Nothing
 runSQLAction $ addTranslationFromTo "pēs" Noun Titan "sand" Noun English Nothing
 runSQLAction $ addTranslationFromTo "peu̯ōr" Noun Titan "fire" Noun English Nothing
-runSQLAction $ addTranslationFromTo "pH2tér"       Noun        Titan "father"          Noun        English      Nothing
-runSQLAction $ addTranslationFromTo "pH2unés"      Noun        Titan "bonfire"         Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "pH₂tér"       Noun        Titan "father"          Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "pH₂unés"      Noun        Titan "bonfire"         Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "pisk" Noun Titan "fish" Noun English Nothing
 runSQLAction $ addTranslationFromTo "plē" Adjective Titan "full" Adjective English Nothing
 runSQLAction $ addTranslationFromTo "pleu" Verb Titan "fly" Verb English Nothing
@@ -719,14 +719,14 @@ runSQLAction $ addTranslationFromTo "rə" Verb Titan "count" Verb English Nothin
 runSQLAction $ addTranslationFromTo "sal" Noun Titan "salt" Noun English Nothing
 runSQLAction $ addTranslationFromTo "sed" Verb Titan "sit" Verb English Nothing
 runSQLAction $ addTranslationFromTo "séH₁mn̥" Noun Titan "seed" Noun English Nothing
-runSQLAction $ addTranslationFromTo "seH2wol"      Noun        Titan "sun"             Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "seH₂wol"      Noun        Titan "sun"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "sekʷ"         Verb        Titan "say"             Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "sekʷ"         Verb        Titan "see"             Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "sem"          Adverb      Titan "together"        Adverb      English      Nothing
 runSQLAction $ addTranslationFromTo "sem"          Numeral     Titan "one"             Numeral     English      Nothing
 runSQLAction $ addTranslationFromTo "sen"          Adjective   Titan "old"             Adjective   English      Nothing
 runSQLAction $ addTranslationFromTo "sengu̯h" Verb Titan "sing" Verb English Nothing
-runSQLAction $ addTranslationFromTo "sH2un"        Noun        Titan "sun"             Noun        English      Nothing
+runSQLAction $ addTranslationFromTo "sH₂un"        Noun        Titan "sun"             Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "sizd" Verb Titan "sit" Verb English Nothing
 runSQLAction $ addTranslationFromTo "smeru" Noun Titan "grease" Noun English Nothing
 runSQLAction $ addTranslationFromTo "smeug" Noun Titan "smoke" Noun English Nothing
@@ -779,7 +779,7 @@ runSQLAction $ addTranslationFromTo "werĝ" Verb Titan "work" Verb English Nothi
 runSQLAction $ addTranslationFromTo "wesnés" Noun Titan "spring" Noun English Nothing
 runSQLAction $ addTranslationFromTo "wésr̥" Noun Titan "spring" Noun English Nothing
 runSQLAction $ addTranslationFromTo "wet" Noun Titan "year" Noun English Nothing
-runSQLAction $ addTranslationFromTo "wīk̂m̥tiH1"     Numeral     Titan "twenty"          Numeral     English      Nothing
+runSQLAction $ addTranslationFromTo "wīk̂m̥tiH₁"     Numeral     Titan "twenty"          Numeral     English      Nothing
 runSQLAction $ addTranslationFromTo "wódr̥"         Noun        Titan "water"           Noun        English      Nothing
 runSQLAction $ addTranslationFromTo "woid"         Verb        Titan "know"            Verb        English      Nothing
 runSQLAction $ addTranslationFromTo "yeH₁r" Noun Titan "year" Noun English Nothing
@@ -789,13 +789,13 @@ runSQLAction $ addTranslationFromTo "yḗkʷr̥" Noun Titan "liver" Noun English
 
 ##### alt Translations
 runSQLAction $ addTranslationFromAlt "bhrentos"    Noun         Titan English Nothing "animal horned"
-runSQLAction $ addTranslationFromAlt "dwidk̂m̥tiH1"  Numeral      Titan English Nothing "two tens"
-runSQLAction $ addTranslationFromAlt "ĝenH1"       Verb         Titan English Nothing "to give birth"
+runSQLAction $ addTranslationFromAlt "dwidk̂m̥tiH₁"  Numeral      Titan English Nothing "two tens"
+runSQLAction $ addTranslationFromAlt "ĝenH₁"       Verb         Titan English Nothing "to give birth"
 runSQLAction $ addTranslationFromAlt "g̑hu̯ē̆r"       Noun         Titan English Nothing "animal wild"
-runSQLAction $ addTranslationFromAlt "giĝnéH1sk̂"   Verb         Titan English Nothing "to give birth"
-runSQLAction $ addTranslationFromAlt "ĝn̥néH1"      Verb         Titan English Nothing "to give birth"
-runSQLAction $ addTranslationFromAlt "H2entá"      Preposition  Titan English Nothing "in front of"
-runSQLAction $ addTranslationFromAlt "H2entí"      Preposition  Titan English Nothing "in front of"
+runSQLAction $ addTranslationFromAlt "giĝnéH₁sk̂"   Verb         Titan English Nothing "to give birth"
+runSQLAction $ addTranslationFromAlt "ĝn̥néH₁"      Verb         Titan English Nothing "to give birth"
+runSQLAction $ addTranslationFromAlt "H₂entá"      Preposition  Titan English Nothing "in front of"
+runSQLAction $ addTranslationFromAlt "H₂entí"      Preposition  Titan English Nothing "in front of"
 runSQLAction $ addTranslationFromAlt "kemer"       Noun         Titan English Nothing "animal armored"
 runSQLAction $ addTranslationFromAlt "lup"         Noun         Titan English Nothing "animal carnivorous, fox, wolf, etc."
 runSQLAction $ addTranslationFromAlt "mēlo"        Noun         Titan English Nothing "animal small"
