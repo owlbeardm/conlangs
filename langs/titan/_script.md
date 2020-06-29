@@ -4,6 +4,10 @@ runSQLAction $ addLang Titan
 runSQLAction $ addLang English
 
 ## Words
+bʰeyH₂
+kʷerH
+gʷerH
+
 
 ### Titan
 
