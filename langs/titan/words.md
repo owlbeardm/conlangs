@@ -14,9 +14,9 @@ dreu | wood
 dwidk̂m̥̥tiH1 | two tens
 dwóH1 | two
 dwóyH1 | two
-dyēus | day
-dyēus | god
-dyēus | sky
+dyeːus | day
+dyeːus | god
+dyeːus | sky
 egH2 | I
 en | in
 esH2nés | blood
@@ -42,7 +42,7 @@ H1dónt | tooth
 H1neH3mn̥ | name
 H1néwn̥ | nine
 H1nomn̥ | name
-H1ok̂tōu | eight
+H1ok̂toːu | eight
 H2enH1 | to breathe
 H2entá | in front of
 H2entí | in front of
@@ -74,7 +74,7 @@ medʰyo | middle
 meĝ | big
 meH1ns | month
 meH1ns | moon
-méH2tēr | mother
+méH2teːr | mother
 men | to think
 mer | to die
 n̥ | not
@@ -111,6 +111,8 @@ upéri | over
 weid | to find
 weid | to see
 wekʷ | to say
-wī́k̂m̥̥tiH1 | twenty
+wiː́k̂m̥̥tiH1 | twenty
 wódr̥ | water
 woid | to know
+
+12600 wiː́k̂m̥̥tiH1 word

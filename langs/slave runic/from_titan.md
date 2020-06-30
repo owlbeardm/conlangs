@@ -2,8 +2,8 @@ H̥   > H
 H₁  > H₁
 H₂  > H₂
 H₃  > H₃
-ē̆'       > ē
-ū̆'       > u
+eː̆'       > eː
+uː̆'       > u
 
 #es     > eθ
 #k̂l     > k̂
@@ -58,10 +58,10 @@ uH₂     > y
 uH₃     > y
 éH₁     > a
 éy      > a
-ēi      > i
-ēu      > u
-ōi      > y
-ōu      > a
+eːi      > i
+eːu      > u
+oːi      > y
+oːu      > a
 
 a       > o
 e       > e
@@ -74,9 +74,9 @@ r̥       > ir
 u       > u
 é       > a
 ó       > a
-ā       > a
-ē       > a
-ō       > uo
+aː       > a
+eː       > a
+oː       > uo
 
 
 

@@ -18,13 +18,13 @@ asdsad | asdasd
 "déiwos" Noun ProtoMaterial "day" Noun English
 "swepnos" Noun ProtoMaterial "dream" Noun English
 "dʰeĝʰom" Noun ProtoMaterial "earth" Noun English
-"H1ok̂tōu" Numeral ProtoMaterial "eight" Numeral English
+"H1ok̂toːu" Numeral ProtoMaterial "eight" Numeral English
 "H3okʷ" Noun ProtoMaterial "eye" Noun English
 "pH2tér" Noun ProtoMaterial "father" Noun English
 "pénkʷe" Numeral ProtoMaterial "five" Numeral English
 "H2ents" Noun ProtoMaterial "forehead" Noun English
 "kʷetwóres" Numeral ProtoMaterial "four" Numeral English
-"dyēus" Noun ProtoMaterial "god" Noun English
+"dyeːus" Noun ProtoMaterial "god" Noun English
 "gʷerH2" Adjective ProtoMaterial "heavy" Adjective English
 "k̂m̥tóm" Numeral ProtoMaterial "hundred" Numeral English
 "H2eug" Verb ProtoMaterial "increase" Verb English
@@ -37,7 +37,7 @@ asdsad | asdasd
 "medʰyo" Preposition ProtoMaterial "mid" Preposition English
 "meH1ns" Noun ProtoMaterial "month" Noun English
 "meH1ns" Noun ProtoMaterial "moon" Noun English
-"méH2tēr" Noun ProtoMaterial "mother" Noun English
+"méH2teːr" Noun ProtoMaterial "mother" Noun English
 "H1neH3mn̥" Noun ProtoMaterial "name" Noun English
 "H1néwn̥" Numeral ProtoMaterial "nine" Numeral English
 "n̥" Adverb ProtoMaterial "not" Adverb English
@@ -72,7 +72,7 @@ asdsad | asdasd
 "sneigʷʰ" Verb ProtoMaterial to "snow" Verb English
 "men" Verb ProtoMaterial to "think" Verb English
 "doru" Noun ProtoMaterial "tree" Noun English
-"wī́k̂m̥̥tiH1" Numeral ProtoMaterial "twenty" Numeral English
+"wiː́k̂m̥̥tiH1" Numeral ProtoMaterial "twenty" Numeral English
 "dwóH1" Numeral ProtoMaterial "two" Numeral English
 "dwidk̂m̥̥tiH1" Numeral ProtoMaterial two "tens" Numeral English
 "gʷʰerm" Adjective ProtoMaterial "warm" Adjective English

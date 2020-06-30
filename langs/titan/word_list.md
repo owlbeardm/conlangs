@@ -76,7 +76,7 @@ mæn
 mær
 mærːnf
 me
-méylēr
+méyleːr
 mi
 ̂m̥lóm
 moh
@@ -97,7 +97,7 @@ rːnonn̥
 rdn̥l
 re
 ro
-rôlōu
+rôloːu
 sɔ
 sɔt
 ʃik
@@ -112,7 +112,7 @@ tu
 upéri
 væ
 væid
-vī́̂m̥̥lir
+viː́̂m̥̥lir
 vódr̥
 wa
 wai

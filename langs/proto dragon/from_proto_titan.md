@@ -2,8 +2,8 @@ H̥   > H
 H₁  > H1
 H₂  > H2
 H₃  > H3
-ē̆'       > ī
-ū̆'       > u
+eː̆'       > iː
+uː̆'       > u
 
 H1#     > 
 H2#     > 
@@ -11,54 +11,54 @@ H3#     >
 
 eH2ei   > ae
 
-H1ei    > ē
-H1eu    > ō
+H1ei    > eː
+H1eu    > oː
 H2ei    > ae
-H2eu    > ō
+H2eu    > oː
 H3ei    > oe
-H3eu    > ō
+H3eu    > oː
 oei     > u
 
 H1e     > e
 H2e     > a
 H3e     > o
 ai      > ae
-au      > ūa
-eH1     > ī
-eH2     > ā
-eH3     > ū
-ei      > īa
-eu      > ūa
-iH1     > ī
-iH2     > ī
-iH3     > ī
-lH1     > lā
-lH2     > lā
-lH3     > lā
+au      > uːa
+eH1     > iː
+eH2     > aː
+eH3     > uː
+ei      > iːa
+eu      > uːa
+iH1     > iː
+iH2     > iː
+iH3     > iː
+lH1     > laː
+lH2     > laː
+lH3     > laː
 l̥l      > al
-mH1     > mā
-mH2     > mā
-mH3     > mā
+mH1     > maː
+mH2     > maː
+mH3     > maː
 m̥m      > am
-nH1     > nā
-nH2     > nā
-nH3     > nā
+nH1     > naː
+nH2     > naː
+nH3     > naː
 n̥n      > an
 oi      > oe
-ou      > ūa
-rH1     > rā
-rH2     > rā
-rH3     > rā
+ou      > uːa
+rH1     > raː
+rH2     > raː
+rH3     > raː
 r̥r      > ar
-uH1     > ū
-uH2     > ū
-uH3     > ū
-éH1     > ī
-éy      > ī
-ēi      > ī
-ēu      > ū
-ōi      > u
-ōu      > ō
+uH1     > uː
+uH2     > uː
+uH3     > uː
+éH1     > iː
+éy      > iː
+eːi      > iː
+eːu      > uː
+oːi      > u
+oːu      > oː
 
 a       > e
 e       > a
@@ -69,11 +69,11 @@ n̥       > en
 o       > o
 r̥       > ri
 u       > u
-é       > ī
-ó       > ā
-ā       > ā
-ē       > ī
-ō       > ā
+é       > iː
+ó       > aː
+aː       > aː
+eː       > iː
+oː       > aː
 
 
 
