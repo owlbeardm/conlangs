@@ -1,7 +1,7 @@
 θ ð s z ʃ ʒ x ɣ f v m n ŋ r l
 i iː e eː a aː ɛ ɛː ɨ ɨː ia ie iɨ
 
-θ θʃ θx θf θr
+θ θʃ θx θf θr θŋ
 s sʃ sx sf sr
 ʃ ʃθ ʃð ʃs ʃz ʃx ʃɣ ʃr ʃl
 r
@@ -10,7 +10,7 @@ m
 n
 l lθ lð lʃ lʒ lx lɣ lr
 
-f, fr, fs, fsl, fsm, fsn, fsr, fsʃ, fx, fxl, fxm, fxn, fxr, fxs, fxʃ, fxθ, fɣ, fθ, fθl, l, lr, lx, lð, lðm, lðn, lðʃ, lɣ, lʃ, lʃf, lʃm, lʃn, lʃs, lʃθ, lʒ, lʒf, lʒm, lʒn, lʒs, lʒθ, lθ, lθm, lθn, lθʃ, m, n, r, rf, rfs, rfx, rfz, rfð, rfɣ, rfθ, rn, rs, rsf, rsx, rsʃ, rx, rxf, rxm, rxn, rxs, rxʃ, rxθ, rz, rð, rðm, rðn, rðʃ, rɣ, rʃ, rʃs, rʃx, rʃz, rʃð, rʃɣ, rʃθ, rʒ, rθ, rθm, rθn, rθx, rθʃ, s, sf, sfl, sfr, sfx, sfɣ, sl, slr, slx, slɣ, slʃ, slʒ, sm, sn, sr, srf, srn, srʃ, sx, sʃ, sʃl, sʃr, sʃx, sʃɣ, sʒ, v, vz, vzl, vzm, vzn, vzr, vzʃ, vð, vðl, x, xf, xfl, xfr, xfs, xfz, xl, xlr, xlð, xlʃ, xlʒ, xlθ, xm, xn, xr, xs, xsf, xsl, xsm, xsn, xsr, xsʃ, xð, xʃ, xʃl, xʃr, xʃs, xʃz, xʃð, xʃθ, xθ, xθl, xθm, xθn, xθr, xθʃ, z, zf, zfl, zfr, zfx, zfɣ, zl, zlr, zlx, zlɣ, zlʃ, zlʒ, zm, zn, zr, zrf, zrn, zrʃ, zv, zx, zʃ, zʃl, zʃr, zʃx, zʃɣ, ð, ðf, ðl, ðlr, ðlx, ðlɣ, ðlʃ, ðlʒ, ðm, ðn, ðr, ðrf, ðrn, ðrʃ, ðx, ðŋ, ðɣ, ðʃ, ðʃl, ðʃr, ðʃx, ðʃɣ, ðʒ, ŋ, ŋð, ŋðl, ŋðr, ŋðʃ, ŋθ, ŋθl, ŋθr, ŋθʃ, ɣ, ɣz, ɣzf, ɣzl, ɣzm, ɣzn, ɣzr, ɣzʃ, ɣð, ɣðl, ɣðm, ɣðn, ɣðr, ɣðʃ, ʃ, ʃf, ʃfl, ʃfr, ʃfx, ʃfɣ, ʃl, ʃlr, ʃlx, ʃlð, ʃlɣ, ʃlθ, ʃm, ʃn, ʃr, ʃs, ʃsf, ʃsr, ʃsx, ʃx, ʃz, ʃð, ʃɣ, ʃθ, ʃθl, ʃθm, ʃθn, ʃθr, ʃθx, ʒ, ʒf, ʒfl, ʒfr, ʒfx, ʒfɣ, ʒl, ʒlr, ʒlx, ʒlð, ʒlɣ, ʒlθ, ʒm, ʒn, ʒr, ʒs, ʒsf, ʒsr, ʒsx, ʒx, ʒz, ʒð, ʒðl, ʒðm, ʒðn, ʒðr, ʒɣ, ʒθ, ʒθr, ʒθx, θ, θf, θl, θlr, θlx, θlɣ, θlʃ, θlʒ, θm, θn, θr, θrf, θrn, θrʃ, θx, θŋ, θɣ, θʃ, θʃl, θʃr, θʃx, θʃɣ, θʒ
+f, fr, fs, fsl, fsm, fsn, fsr, fsʃ, fx, fxl, fxm, fxn, fxr, fxs, fxʃ, fxθ, fɣ, fθ, fθl, l, lr, lx, lð, lðm, lðn, lðʃ, lɣ, lʃ, lʃf, lʃm, lʃn, lʃs, lʃθ, lʒ, lʒlʒm, lʒn, lʒs, lʒθ, lθ, lθm, lθn, lθʃ, m, n, r, rf, rfs, rfx, rfz, rfð, rfɣ, rfθ, rn, rs, rsf, rsx, rsʃ, rx, rxf, rxm, rxn, rxs, rxʃ, rxθ, rz, rð, rðm, rðn, rðʃ, rɣ, rʃ, rʃs, rʃx, rʃz, rʃð, rʃɣ, rʃθ, rʒ, rθ, rθm, rθn, rθx, rθʃ, s, sf, sfl, sfr, sfx, sfɣ, sl, slr, slx, slɣ, slʃ, slʒ, sm, sn, sr, srf, srn, srʃ, sx, sʃ, sʃl, sʃr, sʃx, sʃɣ, sʒ, v, vz, vzl, vzm, vzn, vzr, vzʃ, vð, vðl, x, xf, xfl, xfr, xfs, xfz, xl, xlr, xlð, xlʃ, xlʒ, xlθ, xm, xn, xr, xs, xsf, xsl, xsm, xsn, xsr, xsʃ, xð, xʃ, xʃl, xʃr, xʃs, xʃz, xʃð, xʃθ, xθ, xθl, xθm, xθn, xθr, xθʃ, z, zf, zfl, zfr, zfx, zfɣ, zl, zlr, zlx, zlɣ, zlʃ, zlʒ, zm, zn, zr, zrf, zrn, zrʃ, zv, zx, zʃ, zʃl, zʃr, zʃx, zʃɣ, ð, ðf, ðl, ðlr, ðlx, ðlɣ, ðlʃ, ðlʒ, ðm, ðn, ðr, ðrf, ðrn, ðrʃ, ðx, ðŋ, ðɣ, ðʃ, ðʃl, ðʃr, ðʃx, ðʃɣ, ðʒ, ŋ, ŋð, ŋðl, ŋðr, ŋðʃ, ŋθ, ŋθl, ŋθr, ŋθʃ, ɣ, ɣz, ɣzf, ɣzl, ɣzm, ɣzn, ɣzr, ɣzʃ, ɣð, ɣðl, ɣðm, ɣðn, ɣðr, ɣðʃ, ʃ, ʃf, ʃfl, ʃfr, ʃfx, ʃfɣ, ʃl, ʃlr, ʃlx, ʃlð, ʃlɣ, ʃlθ, ʃm, ʃn, ʃr, ʃs, ʃsf, ʃsr, ʃsx, ʃx, ʃz, ʃð, ʃɣ, ʃθ, ʃθl, ʃθm, ʃθn, ʃθr, ʃθx, ʒ, ʒf, ʒfl, ʒfr, ʒfx, ʒfɣ, ʒl, ʒlr, ʒlx, ʒlð, ʒlɣ, ʒlθ, ʒm, ʒn, ʒr, ʒs, ʒsf, ʒsr, ʒsx, ʒx, ʒz, ʒð, ʒðl, ʒðm, ʒðn, ʒðr, ʒɣ, ʒθ, ʒθr, ʒθx, θ, θf, θl, θlr, θlx, θlɣ, θlʃ, θlʒ, θm, θn, θr, θrf, θrn, θrʃ, θx, θŋ, θɣ, θʃ, θʃl, θʃr, θʃx, θʃɣ, θʒ
 
 θ ʃθ xθ fθ ŋθ rθ lθ
 ð ʒð ɣð vð ŋð rð lð
