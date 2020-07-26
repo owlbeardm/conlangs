@@ -4,10 +4,10 @@ runSQLAction $ addLang Titan
 runSQLAction $ addLang English
 
 ## Words
-bʰeyH₂
-kʷerH
-gʷerH
 
+<!-- runSQLAction $ addWordByLangName "bʰeyH₂" Noun Titan
+runSQLAction $ addWordByLangName "kʷerH" Noun Titan
+runSQLAction $ addWordByLangName "gʷerH" Noun Titan -->
 
 ### Titan
 
