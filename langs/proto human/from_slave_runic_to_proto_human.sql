@@ -2,6 +2,30 @@
 -- to 107540
 
 insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from, sound_to) values
+g̑ > gh
+p > b before liquids (pL > bL)
+p > w before nasals (pN > wN)
+p > ɸ (except possibly after *s)
+ō > ā
+ew > ow
+uwa > owa
+
+īR´ / ? *iHR´ > iR´
+ūR´ / ? *uHR´ > uR´
+
+CHiC´ > CiC´
+CHuC´ > CuC´
+mj > nj
+mw > w
+*p assimilates to *kʷ when another *kʷ follows later in the word (p…kʷ > kʷ…kʷ)
+sVs > ss, sTVs > Ts
+kw > kʷ
+gw > gʷ
+gʰw > gʷʰ
+bʰ > b
+dʰ > d
+gʰ > g
+gʷʰ > gʷ
 (27510, 107540, 0, 'ə', 'ɛ'),
 (27510, 107540, 0, 'ai̯', 'j'),
 (27510, 107540, 0, 'tl', 'kl'),
