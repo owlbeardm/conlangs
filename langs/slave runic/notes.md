@@ -1,0 +1,1 @@
+wiː́k̂m̥̥tiH1 aː̆s mēsro, dhaː̆l

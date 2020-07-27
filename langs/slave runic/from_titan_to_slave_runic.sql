@@ -81,6 +81,7 @@ insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from,
 (9820, 27510, 0, 'aː', 'a'),
 (9820, 27510, 0, 'eː', 'a'),
 (9820, 27510, 0, 'oː', 'uo'),
+(9820, 27510, 0, 'oːi̯', 'oi̯'),
 
 (9820, 27510, 0, 'dʰw', 'dv'),
 (9820, 27510, 0, 'kʷs', 'xs'),
@@ -155,6 +156,9 @@ insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from,
 insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from, sound_to) values
 (9820, 27510, 0, 'ḁ', 'ai̯'),
 (9820, 27510, 0, 'ḗ', 'a'),
-
+(9820, 27510, 0, 'aa', 'aː'),
 (9820, 27510, 0, 'ă', 'aː');
+
+
+
 
