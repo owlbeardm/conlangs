@@ -25,3 +25,26 @@ Intervocalic /di, gi/ do not occur, these having previously reduced to /j/.[20][
 The rhotic may have been [ɾ~r], as in Spanish or Catalan.[24]
 /ll/ had a retroflex realization: [ɭɭ].[25][26]
 /gn/ fricativizes to [ɣn].[27][28]
+
+
+i pala
+u
+^sC > isC
+
+tl > kl
+tʲ > tsʲ
+kʲ > cʲ
+nʲ > ɲʲ
+lʲ > ʎʲ
+ni > ɲi
+ne > ɲe
+ɛe > e
+eɛ > e
+ɔo > o
+oɔ > o
+iɪ > i
+ɪi > i
+ʊu > u
+uʊ > u
+ku > kʷ
+gn > ɣn
