@@ -1,0 +1,66 @@
+- river, water, stream 
+    - -ach (h₂ekʷeh₂)
+    - -au, -aue (h₂ekʷeh₂)
+    - -bach, -bek (bʰog-i-s,*bʰog)
+- haven, harbor, port
+    - -haven, -hafen (keh₂p)
+- island, small island, island holm
+    - -ey (ahwo:, h₂ékʷeh₂)
+    - -oog, -öhe, -oie, -ee (cf. English ey, ea) (ahwo:, h₂ékʷeh₂)
+    - -werder, -werth, -wörth, -ort (from Proto-Germanic *waruþaz m or *waruþą)
+- bridge
+    - -brücken, -brück (*bʰerw-, *bʰrēw-)
+- keep, ford, guard, hide, castle
+    - -burg (bʰerǵʰ)
+    - -furt (pértus)
+    - -hut (kéwHtis)
+    - -hufe (kéwHtis)
+    - -stein (*stoyh₂nos, *steyh₂)
+- church
+    - -kirchen, -kirch
+- village/Thorpe, houses, home/settlement, farmhouse, settlement, town, place
+    - -dorf, -torf
+    - -hausen
+    - -heim, -ham, -am, -hem, -em, -um
+    - -hof, -hoff, -hofen
+    - -stadt, -stedt, -stätt, -stetten
+- mountain, hill, hillside
+    - -berg, -bergen (bʰerǵʰ)
+    - -bühl, -bühel
+    - -halde, -halden
+- field, hedged field or wood, clearing, valley, dale, forest, meadow
+    - -feld, -felde
+    - -hagen
+    - -roth, -rath, -rode, -reuth, -rade
+    - Rade-
+    - -tal, -thal
+    - -wald, -walde
+    - -wang, -wangen, -wängle
+- descendants of (personal name)
+    - -ing, -ingen, -ungen, -ung, -ens
+
+
+- (other country names)
+    - -au
+    - -ow
+
+- greater
+    - Groß-, Großen-
+- green
+    - Grün-, Grüne-
+- higher
+    - Ober-
+- old
+    - Alt-, Alten-, Olden-
+- new
+    - Neu-, Neuen-
+- nice
+    - Schön-, Schöne-
+- little
+    - Klein-, Lütten-
+- lower
+    - Nieder-
+- upper
+    - Hoh-, Hohen-, Höch-, Hoch-
+- under
+    - Unter-
