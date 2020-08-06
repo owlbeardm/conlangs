@@ -51,11 +51,11 @@
 - higher
     - Ober- (from Proto-Germanic *ubar- )
 - old
-    - Alt-, Alten-, Olden-
+    - Alt-, Alten-, Olden- (h₂eltós)
 - new
-    - Neu-, Neuen-
+    - Neu-, Neuen- (*néwyos)
 - nice
-    - Schön-, Schöne-
+    - Schön-, Schöne- (Proto-Germanic/skaunį̄, (s)kewh₁-)
 - little
     - Klein-, Lütten-
 - lower
