@@ -4,6 +4,7 @@
 
 insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from, sound_to) values
 -- (107540, 118770, 0, '(p)(?=.*kʷ)', 'kʷ'),
+(107540, 118770, 0, 'ɣ', 'g'),
 (107540, 118770, 0, 'ds', 'ts'),
 (107540, 118770, 0, 'dt', 'tt'),
 (107540, 118770, 0, 'gs', 'ks'),
