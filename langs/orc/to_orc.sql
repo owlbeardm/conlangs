@@ -1,4 +1,3 @@
-
 insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from, sound_to) values
 (9820, 9850, 0, 'dd','d'),
 (9820, 9850, 0, 'dʣ','ʣ'),

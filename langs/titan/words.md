@@ -1,118 +1,117 @@
-apó | away
-bʰréH2ter | brother
-déiwos | day
-déiwos | god
-déiwos | sky
-dék̂m̥t | ten
-dʰeĝʰom | earth
-dʰĝʰemon | person
-dʰugH2tér | daughter
-doru | tree
-doru | wood
-dreu | tree
-dreu | wood
-dwidk̂m̥̥tiH1 | two tens
-dwóH1 | two
-dwóyH1 | two
-dyeːus | day
-dyeːus | god
-dyeːus | sky
-egH2 | I
-en | in
-esH2nés | blood
-ésH2r̥ | blood
-ĝenH1 | to give birth
-ĝénH3 | know
-ĝénH3 | to recognize
-giĝnéH1sk̂ | to give birth
-ĝnéH3sk̂ | know
-ĝnéH3sk̂ | to recognize
-ĝn̥néH1 | to give birth
-ĝn̥néH3 | know
-ĝn̥néH3 | to recognize
-ĝonH2dʰos | cheek
-ĝonH2dʰos | chin
-ĝonH2dʰos | jaw
-gʷerH2 | heavy
-gʷʰerm | warm
-gʷiH3wo | alive
-gʷiH3woteH2 | life
-H1dn̥t | tooth
-H1dónt | tooth
-H1neH3mn̥ | name
-H1néwn̥ | nine
-H1nomn̥ | name
-H1ok̂toːu | eight
-H2enH1 | to breathe
-H2entá | in front of
-H2entí | in front of
-H2ents | forehead
-H2eug | increase
-H2eug | to grow
-H2óst | bone
-H2ster | star
-H2weg | increase
-H2weg | to grow
-H2weH1n̥to | wind
-H2yuHn̥ | young
-H3okʷ | eye
-k̂leus | to hear
-k̂m̥tóm | hundred
-kʷe | and
-kʷe | any
-kʷei | who
-kʷetwóres | four
-kʷid | what
-kʷis | who
-kʷod | what
-kʷoi | who
-kʷos | who
-leuk | brightness
-leuk | light
-medʰyo | mid
-medʰyo | middle
-meĝ | big
-meH1ns | month
-meH1ns | moon
-méH2teːr | mother
-men | to think
-mer | to die
-n̥ | not
-óinos | one
-óiwos | one
-péH2wr̥ | bonfire
-pénkʷe | five
-per | across
-per | beyond
-per | through
-pH2tér | father
-pH2unés | bonfire
-prek̂ | to ask
-pr̥sk̂ | to ask
-seH2wol | sun
-sekʷ | to say
-sekʷ | to see
-sem | one
-sem | together
-sen | old
-septḿ̥ | seven
-sH2un | sun
-sneigʷʰ | to snow
-suHnú | son
-swék̂s | six
-swe | oneself
-swepnos | dream
-swep | to sleep
-swésor | sister
-tréyes | three
-tu | you
-upéri | above
-upéri | over
-weid | to find
-weid | to see
-wekʷ | to say
-wiː́k̂m̥̥tiH1 | twenty
-wódr̥ | water
-woid | to know
-
-12600 wiː́k̂m̥̥tiH1 word
+apó
+bʰréH2ter
+déiwos
+déiwos
+déiwos
+dék̂m̥t
+dʰeĝʰom
+dʰĝʰemon
+dʰugH2tér
+doru
+doru
+dreu
+dreu
+dwidk̂m̥̥tiH1
+dwóH1
+dwóyH1
+dyeːus
+dyeːus
+dyeːus
+egH2
+en
+esH2nés
+ésH2r̥
+ĝenH1
+ĝénH3
+ĝénH3
+giĝnéH1sk̂
+ĝnéH3sk̂
+ĝnéH3sk̂
+ĝn̥néH1
+ĝn̥néH3
+ĝn̥néH3
+ĝonH2dʰos
+ĝonH2dʰos
+ĝonH2dʰos
+gʷerH2
+gʷʰerm
+gʷiH3wo
+gʷiH3woteH2
+H1dn̥t
+H1dónt
+H1neH3mn̥
+H1néwn̥
+H1nomn̥
+H1ok̂toːu
+H2enH1
+H2entá
+H2entí
+H2ents
+H2eug
+H2eug
+H2óst
+H2ster
+H2weg
+H2weg
+H2weH1n̥to
+H2yuHn̥
+H3okʷ
+k̂leus
+k̂m̥tóm
+kʷe
+kʷe
+kʷei
+kʷetwóres
+kʷid
+kʷis
+kʷod
+kʷoi
+kʷos
+leuk
+leuk
+medʰyo
+medʰyo
+meĝ
+meH1ns
+meH1ns
+méH2teːr
+men
+mer
+n̥
+óinos
+óiwos
+péH2wr̥
+pénkʷe
+per
+per
+per
+pH2tér
+pH2unés
+prek̂
+pr̥sk̂
+seH2wol
+sekʷ
+sekʷ
+sem
+sem
+sen
+septḿ̥
+sH2un
+sneigʷʰ
+suHnú
+swék̂s
+swe
+swepnos
+swep
+swésor
+tréyes
+tu
+upéri
+upéri
+weid
+weid
+wekʷ
+wiː́k̂m̥̥tiH1
+wódr̥
+woid
+wiː́k̂m̥̥tiH1
