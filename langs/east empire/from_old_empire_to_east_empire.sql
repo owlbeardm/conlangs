@@ -74,10 +74,11 @@ insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from,
 (9840, 9860, 0, '^ge', 'gje'),
 
 -- Palatalization of syllable-final velars: *ct* > /i̯t/, *x* > /i̯s/, *gn* > /i̯n/, *cl/gl* > /i̯l/ (2.5.2.4).
-(9840, 9860, 0, 'ct', 'it'),
-(9840, 9860, 0, 'h', 'is'),
-(9840, 9860, 0, 'gn', 'in'),
-(9840, 9860, 0, '[cg]l', 'il'),
+(9840, 9860, 0, 'ct', 'jt'),
+(9840, 9860, 0, 'h', 'js'),
+(9840, 9860, 0, 'gn', 'jn'),
+(9840, 9860, 0, '[cg]l', 'jl'),
+(9840, 9860, 0, '^j', 'e'),
 
 -- Assimilation of consonant groups: *pt* > /tt/, *rs* > /ss/, *ps* > /ss/. *ns* > /s/. mn > /nn/, mb > /mm/ (2.5.3.2).
 

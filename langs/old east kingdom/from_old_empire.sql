@@ -3,8 +3,27 @@
 -- (?<=.)(tl)(?=.)
 
 insert into evolve_law_tbl(lang_from_id, lang_to_id, priority, sound_regex_from, sound_to) values
---  example (9840, 9860, 0, '(p)(?=.*kʷ)', 'kʷ'),
--- Loss of final *m* (2.5.4) and initial *h* (2.5.2).
+-- Geminate consonants are shortened after a consonant or a long vowel — *káyd-tis "act of calling" (pronounced *káydstis) > *káyssis > *káysis > *haisiz "command"
+-- 
+-- An epenthetic /s/ was inserted already in PIE after dental consonants when they were followed by a suffix beginning with a dental.
+-- This sequence now becomes /TsT/ > /ts/ > /ss/ — *wid-tós "known" (pronounced *widstos) > *witstós > *wissós > *wissaz "certain"
+-- 
+-- Word-initial laryngeals are lost before a consonant — *h₁dóntm̥ "tooth, acc." > *dóntum > *tanþų
+-- /h₁V/ > /V/ — *h₁ésti "is" > *ésti > *isti
+-- /h₂e/ > /a/, /h₂V/ > /V/ otherwise — *h₂énti "in front" > (with shift of accent) *antí > *andi "in addition"
+-- /h₃e/ > /o/, /h₃V/ > /V/ otherwise — *h₃érō "eagle" > *órô > *arô
+-- Laryngeals are lost after vowels but lengthen the preceding vowel: /VH/ > /Vː/ — *séh₁mō "seeds" > *sēmô > *sēmô
+-- Two vowels that come to stand in hiatus because of that change contract into an overlong vowel — *-oHom "genitive plural" > *-ôm > *-ǫ̂; *-eh₂es "eh₂-stem nom. pl." > *-âs > *-ôz
+-- In word-final position, the resulting long vowels remain distinct from (shorter than) the overlong vowels that were formed from PIE word-final long vowels — *-oh₂ "thematic 1st sg." > *-ō
+-- Laryngeals remain between consonants
+-- 
+-- Cowgill's law: /h₃/ (and possibly /h₂/) is strengthened to /g/ between a sonorant and /w/ — *n̥h₃mé "us two" > *n̥h₃wé > *ungwé > *unk
+-- 
+-- Vocalisation of remaining laryngeals: /H/ > /ə/ — *ph₂tḗr "father" > *pətḗr > *fadēr; *sámh₂dʰos "sand" > *sámədʰos > *samdaz
+-- 
+-- Velars are labialised by following /w/: *éḱwos "horse" > *ékwos > *ékʷos > *ehwaz
+-- 
+-- Labiovelars are delabialised next to /u/ (or /un/) and before /t/ — *gʷʰénti- ~ *gʷʰn̥tí- "killing" > *gʷʰúntis > *gʰúntis > *gunþiz "battle"
 (9840, 9860, 0, 'pe', 'fe'),
 (9840, 9860, 0, 'be', 'pe'),
 (9840, 9860, 0, 'bʰe', 'be'),
