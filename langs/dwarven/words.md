@@ -56,7 +56,6 @@ hew : v | felek
 smith : v | leʧʰer
 
 
-
 Mênu is "accusative pl. 'you' "
 Ai is the preposition "upon", and is a reduced form of aya
 
