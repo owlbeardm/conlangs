@@ -1,5 +1,20 @@
 # Changes
 
+## Quenya
+
+Stops: b [b], p [p], t [t], d [d], g [g], c [k], and q [k].
+Fricatives : f [f], v [v], s [s], hy [ç], ch [x], and h [h].
+Nasals: m [m], n [n], and ng [ŋ].
+Liquids: l [l].
+Trills: r [r].
+Approximates: w [w], hw [ʍ], and y [j]
+
+Stop: p, b, t, d, tʃ, ʝ, k, ɡ
+Continuant: f, θ*, s, ʃ, x
+Nasal: m, n, ɲ
+Lateral: l, ʎ
+Trill: ɾ, r
+
 ## Masculine
 
 - -do -> -ta
