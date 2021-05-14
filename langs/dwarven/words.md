@@ -1,54 +1,54 @@
  english | khuzdul
 ----- | ---------
-word : ns | ʔugl
-language, tongue, dialect : ns | ʔaglaːb
-dragon : ns | ʔaːzag
-helm : ns | haːl
-red, ruddy, (composition) : ns |  baːraz
-white-diamond-color : ns |  zilid
-horn : ns |  ʔinbar
-dwarf : ns |  kʰuzd
-axe : ns |  bark
-head : ns |  bund
-sprout : ns | bulz
-dark, darkness : ns |  duʃ
-root : ns |  buːzun
-valley : ns | du:ban
-shadowy, shadowed : ns | ʔuznul
-hewer : ns | feːlak
-cave, underground, excavated hall : ns | gund
-lair : ns | tʰund
-great : ns | gaːbil
-fortress : ns | gatʰol
 aging, old : ns | gaːmil
-meeting : ns | ʔaːbad
-speaking, speech : ns | ʔigl
-lake, pool : ns | zaːram
-glass : ns | kʰeːled
-path, course : ns | naːlaʔ
-silver-metal : ns | kibil
-diamonds : ns | kilid
-silver-color : ns | zigil
-black : ns | naːrag
-petty dwarf : ns |  kʰizid
-ork : ns |  Rukʰs
+axe : ns |  bark
 balding, clearing : ns | ʃarb
-hill : ns | hund
 beard : ns | turg
-long : ns | sigin
-smith : ns | telʧʰar
-killer : ns | Tenmar
+black : ns | naːrag
+cave, underground, excavated hall : ns | gund
+dark, darkness : ns |  duʃ
+diamonds : ns | kilid
+dragon : ns | ʔaːzag
+dwarf : ns |  kʰuzd
+fortress : ns | gatʰol
+glass : ns | kʰeːled
+great : ns | gaːbil
 grey : ns | tʰaːrak
+head : ns |  bund
+helm : ns | haːl
+hewer : ns | feːlak
+hill : ns | hund
 hollow : ns | zaːhar
-lord : ns | uːzbad
+horn : ns |  ʔinbar
+killer : ns | Tenmar
 knowledge keeper : ns | kʰuːglab
+lair : ns | tʰund
+lake, pool : ns | zaːram
+language, tongue, dialect : ns | ʔaglaːb
+long : ns | sigin
+lord : ns | uːzbad
+meeting : ns | ʔaːbad
+ork : ns |  Rukʰs
+path, course : ns | naːlaʔ
+petty dwarf : ns |  kʰizid
+red, ruddy, (composition) : ns |  baːraz
+root : ns |  buːzun
+shadowy, shadowed : ns | ʔuznul
+silver-color : ns | zigil
+silver-metal : ns | kibil
+smith : ns | telʧʰar
+speaking, speech : ns | ʔigl
+sprout : ns | bulz
 tower:  ns | kulk
+valley : ns | du:ban
+white-diamond-color : ns |  zilid
+word : ns | ʔugl
 |
 clouds : nc |  ʃatʰuːr
+excavations, halls, mansions: nc | tuːm
+gestures : nc | ʔiʃemk
 rills, streams : nc | bizar
 tines, spikes : nc | zirak
-gestures : nc | ʔiʃemk
-excavations, halls, mansions: nc | tuːm
 |
 of : prep |  u
 |
