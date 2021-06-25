@@ -47,19 +47,19 @@ singul
 
 Singular → Plural
 
-Nominative Free | Accusative Free 	| Nominative Composition | Accusative Composition
---------------- | ----------------- | ------------- | -----------------
-CuCC	→ CaCaːC	| CuCCu	 	→ CaCaːCu | CuCC	→ CaCaC	| CuCCu		→ CaCuC
-CaCC	→ CaCuC		| CaCCu	 	→ CaCuCu	| CaCC	→ CaCuC	| CaCCu	 	→ CaCuCu
-CaːCaC	→ CuCuːC	| CaːCuC		→ CuCuːCu | CaCaC → CuCuC	| CaCuC	 	→ CuCuCu
-CuːCuC	→ CuCaːC	| CuːCuCu	→ CuCaːCu | CuCuC → CuCaC	| CuCuCu	→ CuCaCu
-CuːCaC	→ CuCC		| CuːCuC		→ CuCaCu	| CuCaC → CuCC	| CuCuC	 	→ CuCaCu
-CeːCaC	→ CeCuːC	| CeːCuC		→ CeCuːCu | CeCaC → CeCuC	| CeCuC	 	→ CeCuCu
-CaːCiC	→ CuCiːC	| CaːCiCu 	→ CuCiːCu | CaCiC → CuCiC	| CaCiCu	→ CuCiCu (adj)
-CiCC	→ CiCiːC	| CiCCu	 	→ CiCiːCu | CiCC	→ CiCiC	| CiCCu	 	→ CiCiCu
-CeːCeC	→ CeCeːC	| CeːCeCu → CeCeːCu	| CeCeC → CeCeC	| CeCeCu	→ CeCeCu
-CiCiC	→ CiCC		| CiCuC	 	→ CiCCu	 	| CiCiC → CiCC	| CiCuC	 	→ CiCCu
-uːCCaC	→ uCCuC		| uːCCuC	→ uCCaCu	 	| uCCaC	→ uCCuC		| uCCuC	→ uCCaCu
+Nominative Free |  Accusative Free   | Nominative Composition | Accusative Composition
+--------------- | ------------------ | ---------------------- | ----------------------
+CuCC  → CaCaːC  | CuCCu  → CaCaːCu   | CuCC → CaCaC           | CuCCu  → CaCuC
+CaCC → CaCuC    | CaCCu  → CaCuCu    | CaCC → CaCuC           | CaCCu  → CaCuCu
+CaːCaC → CuCuːC | CaːCuC  → CuCuːCu  | CaCaC → CuCuC          | CaCuC  → CuCuCu
+CuːCuC → CuCaːC | CuːCuCu → CuCaːCu  | CuCuC → CuCaC          | CuCuCu → CuCaCu
+CuːCaC → CuCC   | CuːCuC  → CuCaCu   | CuCaC → CuCC           | CuCuC  → CuCaCu
+CeːCaC → CeCuːC | CeːCuC  → CeCuːCu  | CeCaC → CeCuC          | CeCuC  → CeCuCu
+CaːCiC → CuCiːC | CaːCiCu  → CuCiːCu | CaCiC → CuCiC          | CaCiCu → CuCiCu (adj)
+CiCC → CiCiːC   | CiCCu  → CiCiːCu   | CiCC → CiCiC           | CiCCu  → CiCiCu
+CeːCeC → CeCeːC | CeːCeCu → CeCeːCu  | CeCeC → CeCeC          | CeCeCu → CeCeCu
+CiCiC → CiCC    | CiCuC  → CiCCu     | CiCiC → CiCC           | CiCuC  → CiCCu
+uːCCaC → uCCuC  | uːCCuC → uCCaCu    | uCCaC → uCCuC          | uCCuC → uCCaCu
 
 
 IF ^(CuCC)(aːb|)$ THEN
@@ -71,12 +71,12 @@ collective
 
 Collective → Singulative → Plurative
 
-Nominative Free 								| Accusative Free 								| Nominative Composition 				| Accusative Composition
+Nominative Free         | Accusative Free         | Nominative Composition     | Accusative Composition
 ------------------------------- | ------------------------------- | ----------------------------- | ----------------------------------
-CuːC			→	CuCuːn 		→	CaCaːm			|	CuːCu		→	CuCuːnu		→	CaCaːmu		|	CuC			→	CuCun			→	CaCam		|	CuCu		→	CuCunu		→	CaCamu
-CaCaCC	→	CaCaCCuːn	→	CaCaCuC		|	CaCaCCu	→	CaCaCCuːnu	→	CaCaCuCu	|	CaCaCC	→	CaCaCCun	→	CaCaCuC	|	CaCaCCu	→	CaCaCCunu	→	CaCaCuCu
-CiCaC 	→	CiCaCuːn		→ CiCaCaːm	|	CiCaCu	→	CiCaCuːnu	→	CiCaCaːmu	|	CiCaC 	→	CiCaCun		→ CiCaCam	|	CiCaCu	→	CiCaCunu	→	CiCaCamu
-CiCeCC 	→	CiCeCCuːn	→ CiCCeːC 	|	CiCeCCu	→	CiCeCCuːnu	→	CiCCeːCu		|	CiCeCC 	→	CiCeCCun	→ CiCCeC 	|	CiCeCCu	→	CiCeCCunu	→	CiCCeCu
+CuːC   → CuCuːn   → CaCaːm   | CuːCu  → CuCuːnu  → CaCaːmu  | CuC   → CuCun   → CaCam  | CuCu  → CuCunu  → CaCamu
+CaCaCC → CaCaCCuːn → CaCaCuC  | CaCaCCu → CaCaCCuːnu → CaCaCuCu | CaCaCC → CaCaCCun → CaCaCuC | CaCaCCu → CaCaCCunu → CaCaCuCu
+CiCaC  → CiCaCuːn  → CiCaCaːm | CiCaCu → CiCaCuːnu → CiCaCaːmu | CiCaC  → CiCaCun  → CiCaCam | CiCaCu → CiCaCunu → CiCaCamu
+CiCeCC  → CiCeCCuːn → CiCCeːC  | CiCeCCu → CiCeCCuːnu → CiCCeːCu  | CiCeCC  → CiCeCCun → CiCCeC  | CiCeCCu → CiCeCCunu → CiCCeCu
 
 
 CaCCâC
